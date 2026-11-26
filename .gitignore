@@ -7,3 +7,9 @@ __pycache__/
 # c
 
 * .so
+# Virtual Environment 
+venv/
+.venv/
+
+*.egg-info/
+.DS_Store
